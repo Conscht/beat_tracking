@@ -1,2 +1,1 @@
-# beat_tracking
-Playing around with some simple beat tracking libraries
+Repository by Constantin Auga !: D
